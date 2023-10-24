@@ -10,6 +10,7 @@ Behave Library
 Gherkin
 Python & PyCharm
 POM (Page Object Model) in pages folder
+
 📝 Commands in cmd file for Behave and Selenium
 
 pip install -u selenium
